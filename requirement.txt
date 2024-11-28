@@ -1,4 +1,9 @@
-mysql-connector-python
 streamlit
+selenium
+mysql-connector-python
+tabulate
+streamlit-option-menu
 pandas
+plotly
+webdriver-manager
 altair
